@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
         
         <Button variant="contained" color="primary">
-          Hello World!-Test
+          Hello World
         </Button>
 
         <p className={styles.description}>
