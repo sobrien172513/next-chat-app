@@ -16,10 +16,6 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
-        
-        <Button variant="contained" color="primary">
-          Hello World
-        </Button>
 
         <p className={styles.description}>
           Get started by editing{' '}
